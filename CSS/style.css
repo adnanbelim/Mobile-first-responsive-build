@@ -98,11 +98,6 @@ h4{
     
     grid-column: 9/10;
 }
-.site-nav div{
- 
-    grid-column: 6/9;
-    
-}
 .site-nav li{
     margin-left: 10px;
     font-size: 0.7em;
@@ -178,7 +173,7 @@ form input, textarea{
 }
 
 footer{
-    paddding: 30px 20px;
+    padding: 30px 20px;
     background-color: #222;
     background-size: 40%;
     background-position: top center;
